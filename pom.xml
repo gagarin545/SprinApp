@@ -17,7 +17,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <postgesql.version>42.2.6</postgesql.version>
+    <postgesql.version>42.4.1</postgesql.version>
   </properties>
 
   <parent>
